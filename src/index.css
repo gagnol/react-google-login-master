@@ -1,0 +1,16 @@
+
+@font-face{
+  font-family: "lavoir";
+  src: url('/src/img/Lavoir.ttf');
+}
+body {
+  margin: 0;
+  font-family: lavoir;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: King;
+  
+}
